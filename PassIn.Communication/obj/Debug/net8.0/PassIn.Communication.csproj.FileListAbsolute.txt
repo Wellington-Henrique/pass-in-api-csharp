@@ -31,3 +31,4 @@ D:\Projetos\pass-in-api-csharp\PassIn.Communication\obj\Debug\net8.0\PassIn.Comm
 D:\Projetos\pass-in-api-csharp\PassIn.Communication\obj\Debug\net8.0\refint\PassIn.Communication.dll
 D:\Projetos\pass-in-api-csharp\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
 D:\Projetos\pass-in-api-csharp\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll
+D:\Projetos\pass-in-api-csharp\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.sourcelink.json

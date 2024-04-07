@@ -31,3 +31,4 @@ D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Excepti
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\refint\PassIn.Exceptions.dll
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.pdb
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\ref\PassIn.Exceptions.dll
+D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.sourcelink.json

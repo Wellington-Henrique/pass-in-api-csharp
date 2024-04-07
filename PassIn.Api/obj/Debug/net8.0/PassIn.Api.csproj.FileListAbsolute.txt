@@ -181,3 +181,4 @@ D:\Projetos\pass-in-api-csharp\PassIn.Api\obj\Debug\net8.0\refint\PassIn.Api.dll
 D:\Projetos\pass-in-api-csharp\PassIn.Api\obj\Debug\net8.0\PassIn.Api.pdb
 D:\Projetos\pass-in-api-csharp\PassIn.Api\obj\Debug\net8.0\PassIn.Api.genruntimeconfig.cache
 D:\Projetos\pass-in-api-csharp\PassIn.Api\obj\Debug\net8.0\ref\PassIn.Api.dll
+D:\Projetos\pass-in-api-csharp\PassIn.Api\obj\Debug\net8.0\PassIn.Api.sourcelink.json

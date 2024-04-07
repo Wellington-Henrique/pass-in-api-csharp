@@ -32,3 +32,4 @@ D:\Projetos\pass-in-api-csharp\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Inf
 D:\Projetos\pass-in-api-csharp\PassIn.Infrastructure\obj\Debug\net8.0\refint\PassIn.Infrastructure.dll
 D:\Projetos\pass-in-api-csharp\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.pdb
 D:\Projetos\pass-in-api-csharp\PassIn.Infrastructure\obj\Debug\net8.0\ref\PassIn.Infrastructure.dll
+D:\Projetos\pass-in-api-csharp\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.sourcelink.json

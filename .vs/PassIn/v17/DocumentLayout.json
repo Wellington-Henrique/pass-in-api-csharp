@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\Projetos\\pass-in-api-csharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|d:\\projetos\\pass-in-api-csharp\\passin.application\\usecases\\events\\registerattendee\\registerattendeeoneventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\registerattendee\\registerattendeeoneventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|d:\\projetos\\pass-in-api-csharp\\passin.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|d:\\projetos\\pass-in-api-csharp\\passin.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|d:\\projetos\\pass-in-api-csharp\\passin.application\\usecases\\events\\getbyid\\geteventbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\getbyid\\geteventbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|d:\\projetos\\pass-in-api-csharp\\passin.application\\usecases\\events\\register\\registereventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\register\\registereventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|d:\\projetos\\pass-in-api-csharp\\passin.infrastructure\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|d:\\projetos\\pass-in-api-csharp\\passin.infrastructure\\passindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\passindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|d:\\projetos\\pass-in-api-csharp\\passin.exceptions\\passinexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|solutionrelative:passin.exceptions\\passinexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|d:\\projetos\\pass-in-api-csharp\\passin.exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|solutionrelative:passin.exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterEventUseCase.cs",
-              "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
-              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
-              "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
-              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA1wB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T03:02:11.188Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetEventByIdUseCase.cs",
-              "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
-              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
-              "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
-              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "DocumentIndex": 0,
+              "Title": "RegisterAttendeeOnEventUseCase.cs",
+              "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\UseCases\\Events\\RegisterAttendee\\RegisterAttendeeOnEventUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\RegisterAttendee\\RegisterAttendeeOnEventUseCase.cs",
+              "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\UseCases\\Events\\RegisterAttendee\\RegisterAttendeeOnEventUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\RegisterAttendee\\RegisterAttendeeOnEventUseCase.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwEMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T03:49:21.161Z",
+              "WhenOpened": "2024-04-07T06:03:23.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EventsController.cs",
               "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "PassIn.Api\\Controllers\\EventsController.cs",
               "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\Controllers\\EventsController.cs",
               "RelativeToolTip": "PassIn.Api\\Controllers\\EventsController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwDEAAAAfAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwC4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T02:52:49.658Z",
+              "WhenOpened": "2024-04-07T06:02:36.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "PassIn.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "PassIn.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:50:06.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Event.cs",
-              "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\Entities\\Event.cs",
-              "RelativeDocumentMoniker": "PassIn.Infrastructure\\Entities\\Event.cs",
-              "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\Entities\\Event.cs",
-              "RelativeToolTip": "PassIn.Infrastructure\\Entities\\Event.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAdAAAA",
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "PassIn.Exceptions\\ConflictException.cs",
+              "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "PassIn.Exceptions\\ConflictException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T03:23:56.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PassInDbContext.cs",
-              "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\PassInDbContext.cs",
-              "RelativeDocumentMoniker": "PassIn.Infrastructure\\PassInDbContext.cs",
-              "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\PassInDbContext.cs",
-              "RelativeToolTip": "PassIn.Infrastructure\\PassInDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T03:22:09.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PassInException.cs",
-              "DocumentMoniker": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassInException.cs",
-              "RelativeDocumentMoniker": "PassIn.Exceptions\\PassInException.cs",
-              "ToolTip": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassInException.cs",
-              "RelativeToolTip": "PassIn.Exceptions\\PassInException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T02:56:51.354Z",
+              "WhenOpened": "2024-04-07T06:07:28.847Z",
               "EditorCaption": ""
             }
           ]
