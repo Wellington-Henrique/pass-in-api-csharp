@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\PassIn.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\PassIn.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\PassIn.Api.csproj",
+        "projectName": "PassIn.Api",
+        "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\PassIn.Api.csproj",
+        "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\welli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\PassIn.Application.csproj": {
+                "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\PassIn.Application.csproj"
+              },
+              "D:\\Projetos\\pass-in-api-csharp\\PassIn.Communication\\PassIn.Communication.csproj": {
+                "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Communication\\PassIn.Communication.csproj"
+              },
+              "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+                "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\PassIn.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\PassIn.Application.csproj",
+        "projectName": "PassIn.Application",
+        "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\PassIn.Application.csproj",
+        "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\welli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projetos\\pass-in-api-csharp\\PassIn.Communication\\PassIn.Communication.csproj": {
+                "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Communication\\PassIn.Communication.csproj"
+              },
+              "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+                "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
+              },
+              "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
+                "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\pass-in-api-csharp\\PassIn.Communication\\PassIn.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Communication\\PassIn.Communication.csproj",
+        "projectName": "PassIn.Communication",
+        "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Communication\\PassIn.Communication.csproj",
+        "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\welli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
+        "projectName": "PassIn.Exceptions",
+        "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\welli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+        "projectName": "PassIn.Infrastructure",
+        "projectPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\pass-in-api-csharp\\PassIn.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\welli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
