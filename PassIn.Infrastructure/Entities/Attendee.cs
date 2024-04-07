@@ -1,4 +1,6 @@
-﻿namespace PassIn.Infrastructure.Entities
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace PassIn.Infrastructure.Entities
 {
     public class Attendee
     {
@@ -7,5 +9,6 @@
         public string Email { get; set; } = string.Empty;
         public Guid Event_Id { get; set; }
         public DateTime Created_At { get; set; } = DateTime.Now;
+        public CheckIn? CheckIn { get; set; }
     }
 }
