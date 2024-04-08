@@ -27,8 +27,8 @@ D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Excepti
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.AssemblyInfoInputs.cache
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.AssemblyInfo.cs
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.csproj.CoreCompileInputs.cache
+D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.sourcelink.json
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.dll
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\refint\PassIn.Exceptions.dll
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.pdb
 D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\ref\PassIn.Exceptions.dll
-D:\Projetos\pass-in-api-csharp\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.sourcelink.json

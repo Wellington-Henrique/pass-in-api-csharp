@@ -1,3 +1,4 @@
+using Microsoft.OpenApi.Models;
 using PassIn.Api.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,12 +12,30 @@ builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
 builder.Services.AddMvc(options => options.Filters.Add(typeof(ExceptionFilter)));
 
+builder.Services.AddSwaggerGen(options =>
+{
+    options.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Version = "2.0",
+        Title = "API",
+        Description = "Description of my API"
+    });
+});
+
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
+    //app.UseSwagger();
+    //app.UseSwaggerUI();
+
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
+    });
+
 }
 
 app.UseHttpsRedirection();
